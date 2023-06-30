@@ -7,9 +7,13 @@ This contains 5 scripts all used for spot intensity measurements. To run the ana
 All scripts require Matlab to run. 
 
 Bleach1_TifSplit - creates separate tif stacks of individual spots.
+
 Bleach2_Measureintensity_Gaussian - measures the intensity of spots. Matlab script reads X and Y values from column 5/6 in the excel file. 
 
 Must be present in the same folder as the data. 
-Bleach3_StepFindIntensity - Calculates changes in intensity and indentifies steps. 
+
+Bleach3_StepFindIntensity - Calculates changes in intensity and indentifies steps.
+
 Alex4GUI - GUI to visualise spots and step intesnity changes that occur over the tif stack
+
 Alex5Harvest - Collects data from individual spots and colates into one file. 
