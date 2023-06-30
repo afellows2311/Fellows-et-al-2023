@@ -8,7 +8,7 @@ All scripts require Matlab to run.
 
 Bleach1_TifSplit - creates separate tif stacks of individual spots.
 
-Bleach2_Measureintensity_Gaussian - measures the intensity of spots. Matlab script reads X and Y values from column 5/6 in the excel file. 
+Bleach3_Measureintensity_Gaussian - measures the intensity of spots. Matlab script reads X and Y values from column 5/6 in the excel file. 
 
 Must be present in the same folder as the data. 
 
